@@ -1,3 +1,10 @@
+# test folder
+
+test
+
+.storybook
+*.stories.js
+
 # Logs
 logs
 *.log

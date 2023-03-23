@@ -12,7 +12,7 @@ stories.add(
         return ( 
             <Div>
                 <Text/>
-               
+                <Button  variant='success' boxStyle="ghost" >Button</Button>
             </Div>
 
 

@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-const GlobalStyles = createGlobalStyle`
+export const GlobalStyles = createGlobalStyle`
   @import url( ${({theme}) =>  theme.typography.src });
 
     *{
@@ -75,4 +75,3 @@ const GlobalStyles = createGlobalStyle`
 
 `;
 
-export default GlobalStyles;

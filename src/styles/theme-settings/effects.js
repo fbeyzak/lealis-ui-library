@@ -1,4 +1,4 @@
-const defaultEffects  = {
+export const defaultEffects  = {
     blur : {
         xs : 1,
         s : 2,

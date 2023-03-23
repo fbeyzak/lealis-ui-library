@@ -1,0 +1,72 @@
+:root{
+
+
+        --color-primary: #0077b6;
+        --color-secondary: #6c757d;
+        --color-accent: #ffc107;
+        --color-surface: #f8f9fa;
+        --color-text: #212529;
+        --color-success: #28a745;
+        --color-warning: #dc3545;
+        --color-info: #17a2b8;
+      
+        /* Primary */
+        --color-primary-solid-default: #0077b6;
+        --color-primary-solid-hover: #006699;
+        --color-primary-solid-focus: #005588;
+        --color-primary-solid-disabled: #b3c6d4;
+        --color-primary-ghost-default: #f8f9fa;
+        --color-primary-ghost-hover: #e9ecef;
+        --color-primary-ghost-focus: #dfe3e6;
+        --color-primary-ghost-disabled: #b3c6d4;
+        --color-primary-shades-050: #ebf4f9;
+        --color-primary-shades-100: #c7e3f3;
+        --color-primary-shades-200: #9dd1e7;
+        --color-primary-shades-300: #73bfdb;
+        --color-primary-shades-400: #49adcf;
+        --color-primary-shades-500: #2796b3;
+        --color-primary-shades-600: #1d7487;
+        --color-primary-shades-700: #13515b;
+        --color-primary-shades-800: #093c2f;
+        --color-primary-shades-900: #021706;
+      
+        /* Secondary */
+        --color-secondary-solid-default: #6c757d;
+        --color-secondary-solid-hover: #5a6268;
+        --color-secondary-solid-focus: #495258;
+        --color-secondary-solid-disabled: #b3c6d4;
+        --color-secondary-ghost-default: #f8f9fa;
+        --color-secondary-ghost-hover: #e9ecef;
+        --color-secondary-ghost-focus: #dfe3e6;
+        --color-secondary-ghost-disabled: #b3c6d4;
+        --color-secondary-shades-050: #f2f2f2;
+        --color-secondary-shades-100: #d9d9d9;
+        --color-secondary-shades-200: #bfbfbf;
+        --color-secondary-shades-300: #a6a6a6;
+        --color-secondary-shades-400: #8c8c8c;
+        --color-secondary-shades-500: #737373;
+        --color-secondary-shades-600: #595959;
+        --color-secondary-shades-700: #404040;
+        --color-secondary-shades-800: #262626;
+        --color-secondary-shades-900: #0d0d0d;
+      
+        /* Accent */
+        --color-accent-solid-default: #ffc107;
+        --color-accent-solid-hover: #e0a800;
+        --color-accent-solid-focus: #b78e00;
+        --color-accent-solid-disabled: #d9c27c;
+        --color-accent-ghost-default: #f8f9fa;
+        --color-accent-ghost-hover: #e9ecef;
+        --color-accent-ghost-focus: #dfe3e6;
+        --color-accent-ghost-disabled: #d9c27c;
+        --accent-shades-050: #fff9e6;
+        --accent-shades-100: #ffecb3;
+        --accent-shades-200: #ffd180;
+        --accent-shades-300: #ffc107;
+        --accent-shades-400: #ffa000;
+        --accent-shades-500: #ff8f00;
+        --accent-shades-600: #e85a00;
+        --accent-shades-700: #b44d00;
+        --accent-shades-800: #813f00;
+        --accent-shades-900: #4e2600;
+}
